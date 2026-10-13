@@ -17,8 +17,8 @@ window.JJFF_DATA = {
   ],
 
   notices: [
-    { type: "info", title: "Portal único de recursos", text: "Utiliza siempre los enlaces de esta web para acceder a la versión vigente de cada documento." },
-    { type: "locked", title: "Recursos restringidos", text: "Algunos enlaces abren Canva u OneDrive y requieren una cuenta con permisos. La web no almacena datos personales." }
+    { type: "info", title: "Usa siempre estos enlaces", text: "Si un archivo cambia, se actualizará aquí. Así evitamos copias antiguas circulando." },
+    { type: "locked", title: "Canva y OneDrive", text: "Algunos recursos requieren iniciar sesión con una cuenta que tenga acceso." }
   ],
 
   schedule: [

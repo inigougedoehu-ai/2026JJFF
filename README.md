@@ -73,3 +73,10 @@ El repositorio está pensado para **no contener datos personales**. Los listados
 ## Nota sobre las reglas de presentaciones
 
 Las reglas incluidas se han trasladado del documento de instrucciones disponible: portada común, plantilla asignada, paleta propia, EHUSans y coherencia visual. El documento de origen menciona una edición anterior, por lo que conviene revisar únicamente cualquier referencia nominal a la edición antes de publicar material definitivo.
+
+
+## Administración de enlaces
+
+La página `admin.html` permite cambiar enlaces de Canva y OneDrive sin editar archivos a mano. Para guardar cambios necesita un **fine-grained personal access token** de GitHub limitado al repositorio `2026JJFF` con permiso **Contents: Read and write**. El token se introduce en cada sesión y no se guarda en el repositorio.
+
+URL una vez publicado: `https://inigougedoehu-ai.github.io/2026JJFF/admin.html`
